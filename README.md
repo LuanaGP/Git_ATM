@@ -1,8 +1,13 @@
-# Git_ATM
+Caixa Eletrônico
+Implementar as seguintes operações de um caixa eletrônico:
+-Acessar a conta
+-Verificar a senha
+-Verificar saldo
+-Saque
+-Depósito (em própria conta ou conta de terceiro)
+-Pagamento
+Depois implementar a função Main contendo um menu das opções, a priori um menu de acesso a conta, e, se bem sucedido um segundo menu com as operações internas.
 
-#### Como executar
-Compilar todos os arquivos e executar o arquivo *.o* suando o comando *./nome_arquivo*.
-
-## Info de uso
-O usuário padrão(*e único atualmente*) é o **administrador** logo ambos, *login* e *senha* são ***admin***.
-Utilize isto para logar no sistema.
+-----------
+Fizemos todos as operações de uma caixa eletrônico como solicitados: Acessar conta, senha, saldo, saque, depósito e pagamento.
+Fizemos o menu com todas as opções.
